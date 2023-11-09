@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estudando **Python, Machine Learning e Boas práticas para visualização de dados.**
 
-- 🎓 Graduando em Engenharia de Produção - UFPE: Previsão de Término 09/23
+- 🎓 Engenheiro de Produção - UFPE
 
 - ✔ Já estudei **SQL, Excel e Power BI**
 
